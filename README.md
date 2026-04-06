@@ -10,10 +10,7 @@
 ## 🚀 Innovative Features
 
 | Feature | Description | Status |
-| :--- | :---smnsjsj | :---: |
-| <img src="htxmmQSMNDNMADN DDNJKANDJ DNQKJKDNKQDecture** for maximum maintainability:
-
-```mermaid
+| :--- | :---smZ   M  ,  MQSKNM MAMAASSD
 graph LR
     User([🌐 Client]) --> API[Spring Boot REST Controllers]
     API --> Service[Business Logic Layer]
