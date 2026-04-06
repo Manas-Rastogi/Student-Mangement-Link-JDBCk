@@ -6,11 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-3.2.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Microservices_Ready-blueviolet?style=for-the-badge" />
-</p>
-
+    <img src="wjsjjsks jjsjas
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends;Managing+Academic+Data+Efficiently;RESTful+API+Excellence;Spring+Data+JPA+Integration" />
 
 </div>
