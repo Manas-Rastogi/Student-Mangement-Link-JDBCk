@@ -15,15 +15,7 @@
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="20" /> **Smart Search** | Advanced filtering by ID, Name, or Department. | `ACTIVE` |
   | <img src="httsmqsmaMLX l
 
-## 🛠️ Tech Stack Ecosystem
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,idea,docker,git,postman" />
-</div>
-
----
-
-## 🏗️ Technical Architecture
+## 🛠️ Tech Stacx,mxmxmAMXMmm  xmXXMAmX
 The system utilizes a **Decoupled 3-Layer Architecture** for maximum maintainability:
 
 ```mermaid
