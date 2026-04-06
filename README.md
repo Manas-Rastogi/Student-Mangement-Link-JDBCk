@@ -9,7 +9,7 @@
 
 ## 🚀 Innovative Features
 
-| Feature | Description | Status |
+| Feature |   XMKAX MANAS aannassDescription | Status |
 | :--- | :---smZ   M  ,  MQSKNM MAMAASSD
 graph LR
     User([🌐 Client]) --> API[Spring Boot REST Controllers]
