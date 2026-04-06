@@ -9,11 +9,7 @@
 
 ## 🚀 Innovative Features
 
-| Feature |   XMKAX MANAS aannassDescription | Status |
-| :--- | :---smZ   M  ,  MQSKNM MAMAASSD
-graph LR
-    User([🌐 Client]) --> API[Spring Boot REST Controllers]
-    API --> Service[Business Logic Layer]
+| Feasnjndjnjkdandndan  dasnbdiness Logic Layer]
     Service --> Repo[Spring Data JPA Repositories]
     Repo --> DB[(MySQL Persisten
     
