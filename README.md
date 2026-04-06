@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-3.2.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="wjsjjsks jjsjas
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends;Managing+Academic+Data+Efficiently;RESTful+API+Excellence;Spring+Data+JPA+Integration" />
+<img src="https://readme-typing-svg.herokK  JA  KAJQIJSS S WJJDJW  QKJuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends;Managing+Academic+Data+Efficiently;RESTful+API+Excellence;Spring+Data+JPA+Integration" />
 
 </div>
 
