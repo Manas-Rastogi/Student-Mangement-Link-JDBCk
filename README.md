@@ -53,7 +53,7 @@ graph LR
     User([🌐 Client]) --> API[Spring Boot REST Controllers]
     API --> Service[Business Logic Layer]
     Service --> Repo[Spring Data JPA Repositories]
-    Repo --> DB[(MySQL Persistence)]
+    Repo --> DB[(MySQL Persisten
     
     style User fill:#00d2ff,stroke:#fff,stroke-width:2px
     style DB fill:#4479A1,stroke:#fff,stroke-width:2px
