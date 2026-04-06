@@ -11,12 +11,7 @@
 
 | Feature | Description | Status |
 | :--- | :---smnsjsj | :---: |
-| <img src="htxmmnxnndlkwnkdtps://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="20" /> **Data Security** | Industry-standard validation and error handling. | `STABLE` |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="20" /> **Smart Search** | Advanced filtering by ID, Name, or Department. | `ACTIVE` |
-  | <img src="httsmqsmaMLX l
-
-## 🛠️ Tech Stacx,mxmxmAMXMmm  xmXXMAmX
-The system utilizes a **Decoupled 3-Layer Architecture** for maximum maintainability:
+| <img src="htxmmQSMNDNMADN DDNJKANDJ DNQKJKDNKQDecture** for maximum maintainability:
 
 ```mermaid
 graph LR
