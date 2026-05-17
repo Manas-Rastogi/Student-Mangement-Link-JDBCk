@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d6b,70:00d2ff,100:00ffcc&height=220&section=header&text=STUDENT%20NEXUS%20PRO&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=Next-Gen%20Student%20Management%20System&descSize=20&descAlignY=62&descColor=A0D8EF&animation=fadeIn" width="100%"/>
 
 <br/>
-
+---------------------------------------------------
 <!-- BADGE ROW -->
 <img src="https://img.shields.io/badge/Spring_Boot-3.2.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
