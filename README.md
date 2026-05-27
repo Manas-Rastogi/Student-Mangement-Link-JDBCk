@@ -252,7 +252,7 @@ git commit -m "feat: add your feature"
 git push origin feature/your-feature-name
 ```
 
----
+-----------------------------
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        FOOTER                                 -->
