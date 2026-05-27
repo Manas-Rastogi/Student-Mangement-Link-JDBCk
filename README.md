@@ -234,7 +234,7 @@ http://localhost:8080/swagger-ui.html
  📋  Email Notification Service
 ```
 
----
+-----------------------------
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       CONTRIBUTING                            -->
