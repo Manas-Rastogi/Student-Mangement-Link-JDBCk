@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 
 <br/><br/>
--------------------------------
+---------------------------------------------------
 <!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/Status-Active_Development-00d2ff?style=flat-square"/>
 &nbsp;
