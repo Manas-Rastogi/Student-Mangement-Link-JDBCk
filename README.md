@@ -263,7 +263,7 @@ git push origin feature/your-feature-name
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
+---------------------------------------------------
 ---------------------------------------------------
 
 **Built with ❤️ by [Manas Rastogi](https://github.com/Manas-Rastogi)**
