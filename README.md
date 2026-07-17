@@ -270,7 +270,7 @@ git push origin feature/your-feature-name
 
 [![GitHub](https://img.shields.io/badge/GitHub-Manas--Rastogi-181717?style=for-the-badge&logo=github)](https://github.com/Manas-Rastogi)
 [![Email](https://img.shields.io/badge/Email-manasrastogi64@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
-
+---------------------------------------------------
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:00d2ff,100:0D1117&height=120&section=footer&text=Build.%20Scale.%20Deliver.&fontSize=26&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
