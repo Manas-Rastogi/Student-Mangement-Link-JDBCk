@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Architecture-Microservices_Ready-blueviolet?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square"/>
-
+---------------------------------------------------
 </div>
 ---------------------------------------------------
 ---------------------------------------------------
