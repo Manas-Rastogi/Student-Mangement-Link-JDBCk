@@ -117,7 +117,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECHNICAL ARCHITECTURE                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+---------------------------------------------------
 ## 🏗️ Technical Architecture
 
 > **Decoupled 3-Layer Architecture** for maximum maintainability and testability.
